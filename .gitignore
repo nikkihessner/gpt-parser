@@ -1,0 +1,56 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Logs and output
+logs/
+*.log
+*.out
+*.tmp
+*.bak
+
+# Parser output (optional)
+output/
+*.md
+*.txt
+*.jsonl
+
+# Embeddings / model artifacts
+*.npy
+*.npz
+*.pt
+*.onnx
+
+# Jupyter (if used for prototyping)
+.ipynb_checkpoints/
+*.ipynb
+
+# Misc
+*.swp
+*.lock
